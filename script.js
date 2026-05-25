@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════
-   ADEBAYO OLAIYA PORTFOLIO — script.js
+   ADEBAYO OLAIYA PORTFOLIO2 — script.js
    Features:
      - Navbar scroll effect
      - Mobile menu toggle
